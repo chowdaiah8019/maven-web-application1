@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to devops learning</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Azure Admin & Azure DevOps ,Terraform & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center"> testing of devops appication latest deployment</h1>
 
 <h2> Trainer Name: Balaji Reddy Lachhannagari</h2>
 <hr>
